@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGZy/G0zcVEiNt4jyOx8wqwAAAAACAAAAAAAQZgAAAAEAACAAAADNxEh0diTuGTe0prvWOCEBh9FAiLgnsUspvvxAOft/uAAAAAAOgAAAAAIAACAAAAA37Liyi0MibFcTDsKVT13l0s3EOZfmcd/zyPsOluZFkoAAAAAaDSENpyTdSFxcsYw+iEzTe5HFObDFpKQLDqUEYtfIefGH0/YFWud11aEUz4RHusge58XdGnhvfi9x/wjzcnmtk9y6/1MzcMgJc3iL17e8c4twr8UsxH4ZC8rD3ooEjEzC4JswyVlSNfXdS4GewAGI0bM/lh19DC0kL5fnC7hfbkAAAACKPyCS2LAroY/ogipTM33GFVm2XLF3Q4+IIwQYbMsmC8A+hFtMqHsfO21+7AkOy2B/3R0dZ6gJjH5oCJbDxxt0</EncryptedPassword>
+    <History>True|2024-10-25T17:05:24.5094336Z;False|2024-10-25T13:03:59.5492132-04:00;False|2024-10-25T11:42:11.1552000-04:00;False|2024-10-25T11:41:51.7882456-04:00;False|2024-10-25T11:38:02.6838013-04:00;False|2024-10-25T11:34:12.1878287-04:00;False|2024-10-25T11:33:54.4967650-04:00;False|2024-10-25T11:30:51.7372869-04:00;False|2024-10-25T11:28:05.8306090-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MTCDatabase">
+      <Value>Data Source=mspp.database.windows.net%3bInitial Catalog=msppdb%3bUser ID=msppadmin%3bPassword=DennyWwt88%2a%2a%3bConnect Timeout=60%3bEncrypt=True%3bTrust Server Certificate=False%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
